@@ -53,7 +53,7 @@ Just open `index.html` in your browser.
 ---
 
 ## 🔗 Live Demo
-
+https://garbhit-portfolio.netlify.app/
 ---
 
 ⭐ If you like this portfolio design, feel free to use it as a template and give the repo a star!
