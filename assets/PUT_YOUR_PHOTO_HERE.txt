@@ -1,0 +1,4 @@
+Save your photo in this folder as: photo.jpg
+(square image, at least 500x500px)
+
+Once it's here, delete this text file (optional — it's ignored by the site either way).
